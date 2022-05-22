@@ -17,5 +17,4 @@
 
 ## Usage
 
-### Create the facets for use in the Elasticsearch data file
 `python3 format_chapter_notes.py`
